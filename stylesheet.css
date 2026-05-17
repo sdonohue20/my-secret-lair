@@ -3,4 +3,25 @@ body {
     background-color: #CCCCFF;
     background-size: cover;
 }
+/* temp nav bar */
+.navbar{
+  position: fixed;
+    top: 150px;
+    z-index: 2000;
 
+  left: 50%;
+  transform: translateX(-50%);
+  width: min(72%, 960px);
+
+  background:#ffd6ff;
+  border:2px solid #ffb2ff;
+  border-radius:12px;
+  padding:20px 15px;
+
+  display:flex;
+  justify-content:center;
+  gap:0;
+
+  box-shadow:0 6px 18px rgba(116, 0, 90);
+  z-index:1000;
+}
