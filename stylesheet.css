@@ -25,3 +25,12 @@ body {
   box-shadow:0 6px 18px rgba(116, 0, 90);
   z-index:1000;
 }
+.navbar a{
+  color:rgb(116, 0, 90);
+    font-family: "Press Start 2P", monospace;
+    font-size: 14px; /* pixel fonts look better smaller */
+    color: rgb(116, 0, 90);
+    text-decoration: none;
+    padding: 0 16px;
+   font-size: 12px;
+}
