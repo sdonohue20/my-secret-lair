@@ -6,3 +6,4 @@ ideas and hopes and dreams:
 - arcade: "game room" where i can include mini python game projects
 - relax room: little page where I can just add random things about my hobbies, myself, progress, etc.
 - gallery: where i add any of my drawings/animations i am proud of
+- credits page: if i use anyone elses' work of any kind, included here
